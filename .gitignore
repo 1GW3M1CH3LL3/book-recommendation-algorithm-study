@@ -1,0 +1,39 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+.PPT/
+PPT/
+*.tsv
+*.xlsx
+*.h5
+*.db
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Environment files
+.env
+# Local dataset files
+data/
+archive.zip
+
+# Original reference notebook
+Code/RecommenderSytems.ipynb
